@@ -1,0 +1,31 @@
+header
+{
+    height: 100px;
+    background: #ccc;
+    border-bottom: 1px solid #aaa;
+}
+
+.container
+{
+    height: inherit;
+}
+
+.h-logo
+{
+    font-size: 28px;
+    color: #234;
+    text-decoration: none;
+}
+
+footer
+{
+    padding: 20px 0;
+    background: #234;
+    text-align: center;
+    margin-top: 200px;
+}
+
+footer a
+{
+    color: #fff;
+}
